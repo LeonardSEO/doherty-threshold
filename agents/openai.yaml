@@ -1,0 +1,4 @@
+interface:
+  display_name: "Doherty Threshold"
+  short_description: "Fast feedback, honest loading, accessible motion"
+  default_prompt: "Use $doherty-threshold to make this interface respond immediately, handle background work reliably, and use purposeful accessible motion."
